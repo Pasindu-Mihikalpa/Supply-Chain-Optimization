@@ -160,6 +160,23 @@ IF([ShippingDays] <= 7, "Delayed", "Severely Delayed"))
 
 ---
 
+## 📊 Live Interactive Dashboard
+
+**View the interactive dashboard online (no download needed):**
+
+[🚀 Open Power BI Dashboard](https://app.powerbi.com/links/cjE53yyGcS?ctid=825c9671-d12b-4864-901e-fd41c394febf&pbi_source=linkShare)
+
+**Features:**
+- Real-time KPI tracking
+- Interactive filtering by region, ship mode, and date
+- Regional performance comparison
+- Product sales and profitability analysis
+- ABC inventory categorization
+
+*Dashboard is live and accessible to anyone with the link*
+
+---
+
 ## 🔄 Future Enhancements
 
 - Real-time data refresh integration
@@ -214,6 +231,19 @@ See the LICENSE file for more details.
 
 ---
 
+## 📞 Connect & Contact
+
+**Author:** Pasindu Mihikalpa
+
+- **GitHub Repository:** [github.com/Pasindu-Mihikalpa/Supply-Chain-Optimization](https://github.com/Pasindu-Mihikalpa/Supply-Chain-Optimization)
+- **Live Dashboard:** [View on Power BI Service](https://app.powerbi.com/links/cjE53yyGcS?ctid=825c9671-d12b-4864-901e-fd41c394febf&pbi_source=linkShare)
+- **LinkedIn:** [linkedin.com/in/pasindu-mihikalpa](https://linkedin.com/in/pasindu-mihikalpa)
+- **Email:** pasindu@email.com
+
+Feel free to reach out with questions, suggestions, or collaboration opportunities!
+
+---
+
 ## 🎯 Summary
 
 This Supply Chain & Inventory Management Dashboard demonstrates:
@@ -248,4 +278,51 @@ Thank you for reviewing this project! If you found it useful, please consider:
 ---
 
 *Built with passion for supply chain professionals who believe data drives excellence.*
+```
 
+---
+
+# 🚀 HOW TO UPDATE ON GITHUB
+```
+STEP 1: Go to GitHub
+https://github.com/Pasindu-Mihikalpa/Supply-Chain-Optimization
+
+STEP 2: Click README.md
+
+STEP 3: Click pencil icon (edit)
+
+STEP 4: Replace ALL content with the complete README above
+
+STEP 5: Scroll down and commit:
+Message: "Add Power BI live dashboard link and contact info"
+
+STEP 6: Click "Commit to main"
+
+✅ DONE!
+```
+
+---
+
+# ✅ VERIFY EVERYTHING WORKS
+```
+AFTER UPDATING:
+
+1. Go to your GitHub repo
+2. See the README displays correctly
+3. Click: [🚀 Open Power BI Dashboard]
+4. Should open: Your live Power BI dashboard
+5. Try: Filters and interactions
+6. Verify: Everything works!
+```
+
+---
+
+# 🎉 YOUR PORTFOLIO IS NOW COMPLETE!
+```
+✅ GitHub Repository: https://github.com/Pasindu-Mihikalpa/Supply-Chain-Optimization
+✅ Live Dashboard: https://app.powerbi.com/links/cjE53yyGcS?ctid=825c9671-d12b-4864-901e-fd41c394febf&pbi_source=linkShare
+✅ Professional README: With all links and documentation
+✅ Shareable: Ready to send to recruiters
+✅ Impressive: Shows real skills and knowledge
+
+STATUS: 🟢 PORTFOLIO COMPLETE! 🎉
